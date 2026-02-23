@@ -1,5 +1,7 @@
 # Assignment 2: Image-to-Video Semantic Retrieval
 
+HuggingFace Repo: https://huggingface.co/datasets/ksam98nyu/assignment-2-rav4-semantic-search
+
 This assignment builds a semantic retrieval pipeline for car exterior components:
 
 1. fine-tune a part detector,
